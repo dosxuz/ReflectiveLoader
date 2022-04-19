@@ -1,0 +1,7 @@
+C:\Users\ritab\TestProjects\ReflectiveLoader\CellAppDomain\bin\x64\Release\CellAppDomain.exe.config
+C:\Users\ritab\TestProjects\ReflectiveLoader\CellAppDomain\bin\x64\Release\CellAppDomain.exe
+C:\Users\ritab\TestProjects\ReflectiveLoader\CellAppDomain\bin\x64\Release\CellAppDomain.pdb
+C:\Users\ritab\TestProjects\ReflectiveLoader\CellAppDomain\obj\x64\Release\CellAppDomain.csproj.AssemblyReference.cache
+C:\Users\ritab\TestProjects\ReflectiveLoader\CellAppDomain\obj\x64\Release\CellAppDomain.csproj.CoreCompileInputs.cache
+C:\Users\ritab\TestProjects\ReflectiveLoader\CellAppDomain\obj\x64\Release\CellAppDomain.exe
+C:\Users\ritab\TestProjects\ReflectiveLoader\CellAppDomain\obj\x64\Release\CellAppDomain.pdb

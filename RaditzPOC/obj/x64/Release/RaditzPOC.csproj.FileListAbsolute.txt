@@ -1,0 +1,7 @@
+C:\Users\ritab\TestProjects\ReflectiveLoader\RaditzPOC\bin\x64\Release\RaditzPOC.exe.config
+C:\Users\ritab\TestProjects\ReflectiveLoader\RaditzPOC\bin\x64\Release\RaditzPOC.exe
+C:\Users\ritab\TestProjects\ReflectiveLoader\RaditzPOC\bin\x64\Release\RaditzPOC.pdb
+C:\Users\ritab\TestProjects\ReflectiveLoader\RaditzPOC\obj\x64\Release\RaditzPOC.csproj.AssemblyReference.cache
+C:\Users\ritab\TestProjects\ReflectiveLoader\RaditzPOC\obj\x64\Release\RaditzPOC.csproj.CoreCompileInputs.cache
+C:\Users\ritab\TestProjects\ReflectiveLoader\RaditzPOC\obj\x64\Release\RaditzPOC.exe
+C:\Users\ritab\TestProjects\ReflectiveLoader\RaditzPOC\obj\x64\Release\RaditzPOC.pdb
